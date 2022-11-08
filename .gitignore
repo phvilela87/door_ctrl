@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+door_ctrl/Debug/
+
+door_ctrl/.settings/
+door_ctrl/.settings/.settings/
+door_ctrl/.settings/.settings/language.settings.xml
+"door_ctrl/door_ctrl Debug.launch"
+*.bin
+
+*.prefs
